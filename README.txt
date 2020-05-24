@@ -27,10 +27,10 @@ To run my program, follow these instructions:
 
 4. If you would like to include files to test, add them into the folder. I have included two files that I used to test (test.txt and dork.jpg)
 
-5. You are now ready to run zlib_compress.c. To compress a file, type:
-	./zlib_compress filename comp
+5. You are now ready to run zlib_compressor.c. To compress a file, type:
+	./zlib_compressor filename comp
    To decompress a file, type:
-	./zlib_compress filename decomp
+	./zlib_compressor filename decomp
 	
 
 My main challenge in this project was figuring out how zlib worked—it's a pretty big library. I spent the first few days reading a lot of the documentation and online resources regarding zlib. A secondary challenge was detangling the Makefile and understanding how the different files in the directory fit together. In retrospect, I should have started with reading the code since I found that zpipe.c (given in library) provided much of the code needed to complete zlib_compressor.c. In addition, I made slight modifications to the Makefile to run zlib_compressor.c. However, I now have a deeper understanding of one of the seminal works in data compression! 
