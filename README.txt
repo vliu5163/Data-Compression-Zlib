@@ -45,3 +45,5 @@ Online sources that I found very useful to understand zlib (and C in general):
 - https://zlib.net/zlib_how.html
 - https://towardsdatascience.com/how-data-compression-works-exploring-lz77-3a2c2e06c097
 - https://cs.stanford.edu/people/eroberts/courses/soco/projects/data-compression/lossless/lz77/index.htm
+- https://www.gnu.org/software/libc/manual/html_node/Summary-of-Malloc.html
+- https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html
