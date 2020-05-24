@@ -36,7 +36,7 @@ To run my program, follow these instructions:
 My main challenge in this project was figuring out how zlib worked—it's a pretty big library. I spent the first few days reading a lot of the documentation and online resources regarding zlib. A secondary challenge was detangling the Makefile and understanding how the different files in the directory fit together. In retrospect, I should have started with reading the code since I found that zpipe.c (given in library) provided much of the code needed to complete zlib_compressor.c. In addition, I made slight modifications to the Makefile to run zlib_compressor.c. However, I now have a deeper understanding of one of the seminal works in data compression! 
 
 
-This was a really fun project to work on! Thanks to Jean-loup Gailly Mark Adler for providing the open source zlib library. Special thanks to Nicolas Duponte and Alexandre Helle for assigning this unique project. 
+This was a really fun project to work on! Thanks to Jean-loup Gailly Mark Adler for providing the open source zlib library. Special thanks to Nicolas Dupont and Alexandre Helle for assigning this unique project. 
 
 
 Online sources that I found very useful to understand zlib (and C in general):
